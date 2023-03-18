@@ -1,1 +1,1 @@
-Self work to find ISPN number.
+Self work to evaluate ISPN number.
